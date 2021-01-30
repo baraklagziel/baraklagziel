@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**baraklagziel/baraklagziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a Full-Stack developer
+🌐 I make apps for Web browsers
+🌱 I’m currently learning Reactjs
+👯 I’m looking to collaborate on Reactjs
+🤔 I’m looking for help with AWS
+🔭 I’m currently working on Asperii
+📫 How to reach me: br.lagziel@gmail.com  
+⚡ Fun fact: I have a red beard
+
+
