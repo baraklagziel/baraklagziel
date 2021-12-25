@@ -4,9 +4,9 @@
 
 🌐 I make apps for Web browsers
 
-🌱 I’m currently learning AWS & K8S
+🌱 I’m currently learning AWS & K8s
 
-👯 I’m looking to collaborate on AWS & K8S
+👯 I’m looking to collaborate on AWS & K8s
 
 🤔 I’m looking for help with AWS
 
