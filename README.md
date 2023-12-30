@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I'm a Full-Stack developer
+💻 I'm a Software Engineer
 
 🌐 I make apps for Web browsers
 
@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on AWS & K8s
 
-🤔 I’m looking for help with AWS
+🤔 I’m looking for help with Open source 
 
 📫 How to reach me: br.lagziel@gmail.com  
 
