@@ -4,9 +4,9 @@
 
 🌐 I make apps for Web browsers
 
-🌱 I’m currently learning AWS & K8s & Flink & ML & Dataops
+🌱 I’m currently learning AWS & K8s & Flink & ML & DataOps
 
-👯 I’m looking to collaborate on AWS & K8s & Flink & ML & Dataops
+👯 I’m looking to collaborate on AWS & K8s & Flink & ML & DataOps
 
 🤔 I’m looking for help with Open source 
 
